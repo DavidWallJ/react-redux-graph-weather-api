@@ -1,0 +1,18 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0;
+}
+
+svg {
+    height: 150px;
+}
+/*SVG can target paths, boxes, circles, text, and graphic images.*/
+
+td:first-of-type, td:first-of-type > div {
+    height: 150px;
+    width: 220px;
+}
